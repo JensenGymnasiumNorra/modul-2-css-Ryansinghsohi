@@ -15,3 +15,9 @@
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+- Lade till en titel i `<title>`-taggen.
+- Skapade en `<header>` med en `<h1>`-rubrik.
+- Lagt till två länkar i `<nav>`.
+- Skapade två sektioner i `<main>` med eget innehåll.
+- Skrev kontaktuppgifter i `<footer>`.
+- använde styles.css för att ändra still.
