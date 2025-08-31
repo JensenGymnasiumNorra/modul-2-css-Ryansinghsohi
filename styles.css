@@ -39,3 +39,15 @@ ul {
 section {
     margin-bottom: 20px;
 }   
+.mainheader {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #7e67d1;
+    margin-bottom: 20px;
+}
+.intro {
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
