@@ -22,3 +22,11 @@ Vi kommer köra spelet https://flukeout.github.io/ genom exam.net
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+- Lade till ett `<p>`-element med relevant text.
+- Lade till ett `<div>`-element.
+- Gav en klass till ett element med bakgrund (t.ex. `<div class="bakgrund">`).
+- Gav en klass till ett element med text (t.ex. `<div class="text">`).
+- Lade till en ny `<h1>` med en klass.
+- Skapade extern CSS och stylade alla `<p>`.
+- Stylade klasserna från punkt 3 och 4 i CSS.
+- Stylade klassen från punkt 5 så att `<h1>` med klass ser annorlunda ut än vanliga `<h1>`.
