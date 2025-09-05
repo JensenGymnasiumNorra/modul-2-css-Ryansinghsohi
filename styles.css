@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background: linear-gradient(to bottom, #ffcccc 0%, #ccffff 100%);
     font-family: Arial, sans-serif;
 }
 
@@ -9,7 +9,7 @@ header {
     position: fixed;
     top: 0;
     left: 0; 
-    background-color: #6173d7;
+    background: linear-gradient(to right, #ff9999, #66ccff);
     display: flex;
     padding: 10px;
     box-sizing: border-box;
