@@ -1,0 +1,13 @@
+h3{
+    text-shadow: 5px 5px 5px grey;
+}
+#div1 {
+    box-shadow: 10px 10px 5px grey;
+}
+#div2:hover {
+    color: blue;
+}
+#div3 {
+    height: 400px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
